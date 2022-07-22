@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggyu97&layout=compact&theme=synthwave)](https://github.com/seunggyu97?tab=repositories)
 
+www.velog.io/@seunggyu97
+
 # 대표 프로젝트
 ## QR코드를 활용한 통합 주문 시스템 (매장관리용) - 오더링 점주용 애플리케이션
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunggyu97&repo=OrderingManager&theme=cobalt)](https://github.com/OrdeRing-Team/OrderingManager)
