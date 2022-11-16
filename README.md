@@ -15,3 +15,8 @@ https://velog.io/@seunggyu97
 ## QR코드를 활용한 통합 주문 시스템 (주문접수용) - 오더링 고객용 애플리케이션
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunggyu97&repo=Ordering&theme=cobalt)](https://github.com/OrdeRing-Team/Ordering)
 
+
+# 진행중
+## 미래를 예측하는 가계부 안드로이드 애플리케이션 - 먼쓸리
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunggyu97&repo=Montly&theme=cobalt)](https://github.com/seunggyu97/monthly)
+
