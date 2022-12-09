@@ -9,11 +9,10 @@ https://velog.io/@seunggyu97
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggyu97&layout=compact&theme=synthwave)](https://github.com/seunggyu97?tab=repositories)
 
 
-# 대표 프로젝트
-## [QR코드를 활용한 통합 주문 시스템 (매장관리용) - 오더링 점주용 애플리케이션](https://github.com/OrdeRing-Team/OrderingManager)
+### 대표 프로젝트
+#### [QR코드를 활용한 통합 주문 시스템 (매장관리용) - 오더링 점주용 애플리케이션](https://github.com/OrdeRing-Team/OrderingManager)
 
-## [QR코드를 활용한 통합 주문 시스템 (주문접수용) - 오더링 고객용 애플리케이션](https://github.com/OrdeRing-Team/Ordering)
+#### [QR코드를 활용한 통합 주문 시스템 (주문접수용) - 오더링 고객용 애플리케이션](https://github.com/OrdeRing-Team/Ordering)
 
-# 진행중
-## [미래를 예측하는 가계부 안드로이드 애플리케이션 - 먼쓸리](https://github.com/seunggyu97/monthly)
+#### [가계부 안드로이드 애플리케이션 - 먼쓸리](https://github.com/seunggyu97/monthly)
 
