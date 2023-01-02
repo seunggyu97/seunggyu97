@@ -3,9 +3,9 @@
 ![seunggyu97's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggyu97&show_icons=true&theme=tokyonight)   
 
 ### 대표 프로젝트
-#### [QR코드를 활용한 통합 주문 시스템 (매장관리용) - 오더링 점주용 애플리케이션](https://github.com/OrdeRing-Team/OrderingManager)
-
+#### [QR코드를 활용한 통합 주문 시스템 - 오더링](https://github.com/OrdeRing-Team)
+<!--
 #### [QR코드를 활용한 통합 주문 시스템 (주문접수용) - 오더링 고객용 애플리케이션](https://github.com/OrdeRing-Team/Ordering)
-
+-->
 #### [가계부 안드로이드 애플리케이션 - 먼쓸리](https://github.com/seunggyu97/monthly)
 
