@@ -3,6 +3,8 @@
 ![seunggyu97's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggyu97&show_icons=true&theme=tokyonight)   
 
 ### 대표 프로젝트
+#### [CMC 수익 창출 앱 프로젝트 - STITCH](https://github.com/N-X-STITCH/STITCH-android)
+
 #### [QR코드를 활용한 통합 주문 시스템 - 오더링](https://github.com/OrdeRing-Team)
 <!--
 #### [QR코드를 활용한 통합 주문 시스템 (주문접수용) - 오더링 고객용 애플리케이션](https://github.com/OrdeRing-Team/Ordering)
